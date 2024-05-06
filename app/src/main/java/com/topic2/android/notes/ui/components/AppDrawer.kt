@@ -27,7 +27,7 @@ private fun AppDrawerHeader() {
             modifier = Modifier.padding(16.dp)
         )
         Text(
-            text = "Заметки",
+            text = "Р—Р°РјРµС‚РєРё",
             modifier = Modifier
                 .align(alignment = Alignment.CenterVertically)
         )
